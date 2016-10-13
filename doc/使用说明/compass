@@ -19,3 +19,5 @@
 第六步
 	更新sass
 	compass watch
+
+注：compass的作用是为了使用sass，config.rb使用文件config的
