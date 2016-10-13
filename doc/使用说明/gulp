@@ -1,0 +1,21 @@
+第一步
+	下载node
+第二步
+	更改镜像文件
+	npm install -g cnpm --registry=https://registry.npm.taobao.org
+	（npm 改成cnpm）
+第三步
+	安装插件
+	全局安装gulp
+	cnpm install gulp -g
+	根目录安装插件
+	cnpm install gulp
+	cnpm install gulp-sass
+	cnpm install browser-sync
+第四步
+	启动gulp
+	gulp server
+
+注：
+	（这是固定，依据gulpfile.js）
+	（gulp的作用是自动更新浏览器）

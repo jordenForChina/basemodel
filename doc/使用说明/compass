@@ -1,0 +1,21 @@
+第一步
+   下载ruby
+第二步
+    更改镜像文件
+	gem sources -a http://rubygems.org/  --remove https://rubygems.org/
+第三步
+	下载sass compass
+	命令行
+	gem install sass
+	gem sass -v
+	gem install compass
+	gen compass -v
+第四步
+	查看是否安装成功
+	gem sources -l
+第五步
+	启动compass
+	compass init
+第六步
+	更新sass
+	compass watch
