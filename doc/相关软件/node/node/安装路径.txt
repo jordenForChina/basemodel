@@ -1,2 +1,0 @@
-安装路径：c/program file/node
-cmd:"node -v"查看node是否安装成功
